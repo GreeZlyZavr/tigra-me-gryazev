@@ -15,7 +15,9 @@
             max-width: 1300px;
             margin: 0 auto;
             margin-top: 50px;
+            display: flex;
             flex-direction: column;
+            justify-content: center;
         }
 
 
